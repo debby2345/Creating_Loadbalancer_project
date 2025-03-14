@@ -8,7 +8,7 @@ Named the target group,
 Selected HTTP as the protocol and port 80,
 Choose "IPv4" as the IP address type,
 Selected the default VPC.
-![targetgroup name](/targetgroup_nmae_vpc.PNG)
+![targetgroup name](/targetgroup_name_vpc.PNG)
 
 Configured HTTP health checks.
 ![health check](/healthcheck.PNG)
